@@ -25,6 +25,8 @@
     "@nestjs/core": "^11.0.1",
     "@nestjs/mongoose": "^11.0.1",
     "@nestjs/platform-express": "^11.0.6",
+    "@nestjs/swagger": "^11.0.3",
+    "class-validator": "^0.14.1",
     "csv-parser": "^3.2.0",
     "dotenv": "^16.4.7",
     "fast-xml-parser": "^4.5.1",
